@@ -4,7 +4,7 @@
     <div class="card">
         <div class="card-header">
             <h3 class="card-title">
-                <P>PEMERINTAH DESA</P>
+                <P>RT RW DESA SENTUL JAYA</P>
             </h3>
             {{-- <div class="card-tools">
             <div class="input-group input-group-sm" style="width: 250px;">
