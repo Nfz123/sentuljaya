@@ -42,7 +42,8 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Ketua</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-number">SALBIAH
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -75,7 +76,8 @@
 
                         <div class="info-box-content">
                             <span class="info-box-text">Sekretaris</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-number">NOVI ASTUTI
+                            </span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -96,7 +98,8 @@
 
                         <div class="info-box-content">
                             <span class="info-box-text">Bendahara</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-number">SALAMAH
+                            </span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -120,7 +123,8 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-number">SUHERTI
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -143,7 +147,8 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-number">AYATI
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -166,7 +171,464 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-number">SITI MARIAM
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">NANDA UTAMI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">MULYANAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">KUSLIAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SRI GUSTIA RAHAYU
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SILFIA FAHMI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SARAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">ANIRAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SUMARTINI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SARYUNAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">ULFA NURHASANAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">YULIARMI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">ROHAYATI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">NURHASANAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">LITA NURLINDA
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">YUYU AMALIA
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">DEDEH MARYATI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">SITI MAEMUNAH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">TUTI NINGSIH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-success">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-number">NUNUNG LASMANAH
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>

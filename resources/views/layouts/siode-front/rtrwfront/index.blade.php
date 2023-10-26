@@ -128,8 +128,9 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Rukun Tetangga</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Ketua RT 01</span>
+                                <span class="info-box-number">SAMUDI
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -151,8 +152,9 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Rukun Tetangga</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Ketua RT 02</span>
+                                <span class="info-box-number">SAMSUDIN
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -174,8 +176,199 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Rukun Tetangga</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Ketua RT 03</span>
+                                <span class="info-box-number">USUP HIDAYAT</span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 04</span>
+                                <span class="info-box-number">SAHRUDIN</span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 05</span>
+                                <span class="info-box-number">MOHAMAD DALIUS
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 06</span>
+                                <span class="info-box-number">AMIRUDIN
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 07</span>
+                                <span class="info-box-number">SUTISNA
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 08</span>
+                                <span class="info-box-number">ANDI JUANDI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 09</span>
+                                <span class="info-box-number">AHMAD SAHRONI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 10</span>
+                                <span class="info-box-number">ANHAR
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-primary">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Ketua RT 11</span>
+                                <span class="info-box-number">AKHIAR
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>

@@ -41,8 +41,8 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Ketua</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Kepala Desa</span>
+                                <span class="info-box-number">MUHAMAD SUKRON</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -74,8 +74,8 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Sekretaris</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-text">Sekretaris Desa</span>
+                            <span class="info-box-number">IVAN ALVIADIN</span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -95,8 +95,9 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Bendahara</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-text">Kepala Urusan Keuangan</span>
+                            <span class="info-box-number">AHMAD DENI FADILLAH
+                            </span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -119,8 +120,9 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Kepala Seksi Pemerintahan</span>
+                                <span class="info-box-number">ADI MULYONO
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -142,8 +144,9 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Kepala Seksi Kesejahteraan</span>
+                                <span class="info-box-number">UCU SURIP
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -165,8 +168,105 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD</span>
+                                <span class="info-box-text">Kepala Seksi Pelayanan</span>
+                                <span class="info-box-number">NENA KOSASIH
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-warning">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Kepala Urusan Tata Usaha Dan Umum</span>
+                                <span class="info-box-number">AHYANI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-warning">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Kepala Urusan Perencanaan</span>
+                                <span class="info-box-number">MUHAMAD NURZEN
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-warning">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Jaro I</span>
+                                <span class="info-box-number">MUHAMAD SIBLI
+                                </span>
+                                <div class="progress">
+                                    <div class="progress-bar" style="width: 70%"></div>
+                                </div>
+                                <span class="progress-description">
+                                    Periode 2020-2025
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <div class="info-box bg-warning">
+                            <span class="info-box-icon">
+                                {{-- <i class="far fa-bookmark"></i> --}}
+                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                    height="100px">
+                            </span>
+
+                            <div class="info-box-content">
+                                <span class="info-box-text">Jaro II</span>
+                                <span class="info-box-number">SURYANI
+                                </span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
