@@ -4,7 +4,7 @@
     <div class="card">
         <div class="card-header">
             <h3 class="card-title">
-                <P>BADAN PERMUSYAWARATAN DESA</P>
+                <P>KADER Pemberdayaan Kesejahteraan Keluarga</P>
             </h3>
             {{-- <div class="card-tools">
             <div class="input-group input-group-sm" style="width: 250px;">
@@ -33,7 +33,7 @@
                         </div>
                     </div> --}}
                     <div class="col-md-4 mx-auto">
-                        <div class="info-box bg-danger">
+                        <div class="info-box bg-success">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -42,7 +42,7 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Ketua</span>
-                                <span class="info-box-number">DODI RUDIYANA, S.H</span>
+                                <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -66,7 +66,7 @@
                             <p class="card-text">Alamat: Jalan Contoh No. 123</p>
                         </div>
                     </div> --}}
-                    <div class="info-box bg-danger">
+                    <div class="info-box bg-success">
                         <span class="info-box-icon">
                             {{-- <i class="far fa-bookmark"></i> --}}
                             <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -74,8 +74,8 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Wakil Ketua</span>
-                            <span class="info-box-number">ELLI IDRIS</span>
+                            <span class="info-box-text">Sekretaris</span>
+                            <span class="info-box-number">AHMAD</span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 <div class="col-md-4  mx-auto">
-                    <div class="info-box bg-danger">
+                    <div class="info-box bg-success">
                         <span class="info-box-icon">
                             {{-- <i class="far fa-bookmark"></i> --}}
                             <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -95,9 +95,8 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Sekretaris</span>
-                            <span class="info-box-number">SUHENDRA, S.Pd
-                            </span>
+                            <span class="info-box-text">Bendahara</span>
+                            <span class="info-box-number">AHMAD</span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -112,7 +111,7 @@
             <div class="row mt-4">
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-danger">
+                        <div class="info-box bg-success">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -121,8 +120,7 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">WALUYO
-                                </span>
+                                <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -136,7 +134,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-danger">
+                        <div class="info-box bg-success">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -145,8 +143,7 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">ULIH RUHIYAT
-                                </span>
+                                <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>
@@ -160,7 +157,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-danger">
+                        <div class="info-box bg-success">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -169,82 +166,7 @@
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">CECEP MAULANA, S.Pd
-                                </span>
-                                <div class="progress">
-                                    <div class="progress-bar" style="width: 70%"></div>
-                                </div>
-                                <span class="progress-description">
-                                    Periode 2020-2025
-                                </span>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card mb-4">
-                        <div class="info-box bg-danger">
-                            <span class="info-box-icon">
-                                {{-- <i class="far fa-bookmark"></i> --}}
-                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
-                                    height="100px">
-                            </span>
-
-                            <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD SYAFEI
-
-                                </span>
-                                <div class="progress">
-                                    <div class="progress-bar" style="width: 70%"></div>
-                                </div>
-                                <span class="progress-description">
-                                    Periode 2020-2025
-                                </span>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card mb-4">
-                        <div class="info-box bg-danger">
-                            <span class="info-box-icon">
-                                {{-- <i class="far fa-bookmark"></i> --}}
-                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
-                                    height="100px">
-                            </span>
-
-                            <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">AHMAD DARUSALAM
-                                </span>
-                                <div class="progress">
-                                    <div class="progress-bar" style="width: 70%"></div>
-                                </div>
-                                <span class="progress-description">
-                                    Periode 2020-2025
-                                </span>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card mb-4">
-                        <div class="info-box bg-danger">
-                            <span class="info-box-icon">
-                                {{-- <i class="far fa-bookmark"></i> --}}
-                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
-                                    height="100px">
-                            </span>
-
-                            <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
-                                <span class="info-box-number">SRI GUSTIA RAHAYU
-
-                                </span>
+                                <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
                                 </div>

@@ -63,4 +63,12 @@ class HomeController extends Controller
     {
         return view('layouts.siode-front.datapekerjafront.index');
     }
+    public function pkkfront()
+    {
+        return view('layouts.siode-front.pkkfront.index');
+    }
+    public function rtrwfront()
+    {
+        return view('layouts.siode-front.rtrwfront.index');
+    }
 }

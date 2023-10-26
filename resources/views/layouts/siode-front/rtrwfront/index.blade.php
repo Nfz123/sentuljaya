@@ -18,44 +18,6 @@
         </div> --}}
         </div>
         <div class="card-body">
-            <div class="container">
-                {{-- <h1 class="mt-5">Struktur Organisasi KARANG TARUNA DESA</h1> --}}
-                <div class="row mt-4">
-                    {{-- <div class="col-md-4 mx-auto">
-                        <div class="card">
-                            <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
-                                height="150px">
-                            <div class="card-body">
-                                <h5 class="card-title">Ketua</h5>
-                                <p class="card-text">Nama: John Doe</p>
-                                <p class="card-text">Alamat: Jalan Contoh No. 123</p>
-                            </div>
-                        </div>
-                    </div> --}}
-                    <div class="col-md-4 mx-auto">
-                        <div class="info-box bg-warning">
-                            <span class="info-box-icon">
-                                {{-- <i class="far fa-bookmark"></i> --}}
-                                <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
-                                    height="100px">
-                            </span>
-
-                            <div class="info-box-content">
-                                <span class="info-box-text">Ketua</span>
-                                <span class="info-box-number">AHMAD</span>
-                                <div class="progress">
-                                    <div class="progress-bar" style="width: 70%"></div>
-                                </div>
-                                <span class="progress-description">
-                                    Periode 2020-2025
-                                </span>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-            </div>
             <div class="row mt-4">
                 <div class="col-md-4  mx-auto">
                     {{-- <div class="card mb-4">
@@ -66,7 +28,7 @@
                             <p class="card-text">Alamat: Jalan Contoh No. 123</p>
                         </div>
                     </div> --}}
-                    <div class="info-box bg-warning">
+                    <div class="info-box bg-primary">
                         <span class="info-box-icon">
                             {{-- <i class="far fa-bookmark"></i> --}}
                             <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -74,8 +36,10 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Sekretaris</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-text">KETUA RW 1
+                            </span>
+                            <span class="info-box-number">DEDI HIDAYAT
+                            </span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -87,7 +51,7 @@
                     </div>
                 </div>
                 <div class="col-md-4  mx-auto">
-                    <div class="info-box bg-warning">
+                    <div class="info-box bg-primary">
                         <span class="info-box-icon">
                             {{-- <i class="far fa-bookmark"></i> --}}
                             <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -95,8 +59,53 @@
                         </span>
 
                         <div class="info-box-content">
-                            <span class="info-box-text">Bendahara</span>
-                            <span class="info-box-number">AHMAD</span>
+                            <span class="info-box-text">Ketua RW 2</span>
+                            <span class="info-box-number">SAEPUL BAHRI
+                            </span>
+                            <div class="progress">
+                                <div class="progress-bar" style="width: 70%"></div>
+                            </div>
+                            <span class="progress-description">
+                                Periode 2020-2025
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4  mx-auto">
+                    <div class="info-box bg-primary">
+                        <span class="info-box-icon">
+                            {{-- <i class="far fa-bookmark"></i> --}}
+                            <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                height="100px">
+                        </span>
+
+                        <div class="info-box-content">
+                            <span class="info-box-text">Ketua RW 3</span>
+                            <span class="info-box-number">SUDARYA
+                            </span>
+                            <div class="progress">
+                                <div class="progress-bar" style="width: 70%"></div>
+                            </div>
+                            <span class="progress-description">
+                                Periode 2020-2025
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4  mx-auto">
+                    <div class="info-box bg-primary">
+                        <span class="info-box-icon">
+                            {{-- <i class="far fa-bookmark"></i> --}}
+                            <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
+                                height="100px">
+                        </span>
+
+                        <div class="info-box-content">
+                            <span class="info-box-text">Ketua RW 4</span>
+                            <span class="info-box-number">SUDRAJAT
+                            </span>
                             <div class="progress">
                                 <div class="progress-bar" style="width: 70%"></div>
                             </div>
@@ -111,7 +120,7 @@
             <div class="row mt-4">
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-warning">
+                        <div class="info-box bg-primary">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -119,7 +128,7 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-text">Rukun Tetangga</span>
                                 <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
@@ -134,7 +143,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-warning">
+                        <div class="info-box bg-primary">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -142,7 +151,7 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-text">Rukun Tetangga</span>
                                 <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>
@@ -157,7 +166,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4">
-                        <div class="info-box bg-warning">
+                        <div class="info-box bg-primary">
                             <span class="info-box-icon">
                                 {{-- <i class="far fa-bookmark"></i> --}}
                                 <img src="{{ asset('img/icon2.png') }}" class="card-img-top" alt="Foto Ketua" width="100px"
@@ -165,7 +174,7 @@
                             </span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Anggota</span>
+                                <span class="info-box-text">Rukun Tetangga</span>
                                 <span class="info-box-number">AHMAD</span>
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 70%"></div>

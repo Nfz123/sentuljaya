@@ -56,6 +56,10 @@ Route::get('/lpmfront', [HomeController::class, 'lpmfront'])->name('home.lpmfron
 Route::get('/bpdfront', [HomeController::class, 'bpdfront'])->name('home.bpdfront');
 Route::get('/pemdesfront', [HomeController::class, 'pemdesfront'])->name('home.pemdesfront');
 Route::get('/datapekerjafront', [HomeController::class, 'datapekerjafront'])->name('home.datapekerjafront');
+Route::get('/pkkfront', [HomeController::class, 'pkkfront'])->name('home.pkkfront');
+Route::get('/rtrwfront', [HomeController::class, 'rtrwfront'])->name('home.rtrwfront');
+
+
 
 
 Route::group(['middleware' => ['guest']], function () {
